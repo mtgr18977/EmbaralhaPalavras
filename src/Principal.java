@@ -13,9 +13,9 @@ public class Principal {
 		System.out.println("Jogo embaralhador de palavras");
 		System.out.println("Voce deve adivinhar a palavra embaralhada");
 		System.out.println("------------------------------------------");
-		System.out.println("Qual tipo de jogo voc� quer?");
-		System.out.println("1 - Morte subita - Voc� n�o pode errar.");
-		System.out.println("2 - Infinito - N�o para at� voc� digitar SAIR para sair do jogo");
+		System.out.println("Qual tipo de jogo voce quer?");
+		System.out.println("1 - Morte subita - Voce nao pode errar.");
+		System.out.println("2 - Infinito - Nao para ate voce digitar SAIR para sair do jogo");
 		op = ler.nextInt();
 		
 		if (op == 1) {
